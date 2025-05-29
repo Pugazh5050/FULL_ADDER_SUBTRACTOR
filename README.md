@@ -1,3 +1,6 @@
+Developed by: PUGAZHALENTHI V
+
+RegisterNumber: 212224100047
 # FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
