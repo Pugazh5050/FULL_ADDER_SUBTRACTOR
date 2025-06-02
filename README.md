@@ -1,9 +1,9 @@
 Developed by: PUGAZHALENTHI V
 
 RegisterNumber: 212224100047
-# FULL_ADDER_SUBTRACTOR
+# FULL ADDER SUBTRACTOR
 
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
+Implementation of Full Adder and Full subtractor circuit
 
 **AIM:**
 
